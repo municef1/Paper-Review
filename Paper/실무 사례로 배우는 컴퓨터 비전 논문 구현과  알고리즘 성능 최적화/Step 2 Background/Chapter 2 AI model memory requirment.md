@@ -1,0 +1,1 @@
+# Chapter 2. AI model memory requirment
